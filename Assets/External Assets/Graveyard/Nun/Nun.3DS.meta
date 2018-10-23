@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 9fb41c4bcd019f3488c8c77ab00d5793
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 364f01a0.o
+    100002: 364f52b8.o
+    100004: 364f88c8.o
+    100006: 364fa3d0.o
+    100008: 36553520.o
+    100010: 36555028.o
+    100012: 36556b30.o
+    100014: 36558638.o
+    100016: 3655a140.o
+    100018: 3655bc48.o
+    100020: 3655f258.o
+    100022: 365b7328.o
+    100024: 365ba938.o
+    100026: 365c4b68.o
+    100028: 3663a0a0.o
+    100030: 366a76c0.o
+    100032: 36705818.o
+    100034: 36792fd0.o
+    100036: 36794ad8.o
+    100038: 36799bf0.o
+    100040: 36a06318.o
+    100042: 36a09928.o
+    100044: 36a10548.o
+    100046: 36a1a778.o
+    100048: 36cfb920.o
+    100050: 36cfd428.o
+    100052: 36d02540.o
+    100054: 36ffb1a0.o
+    100056: 370d74c8.o
+    100058: 370dc5e0.o
+    100060: 37504eb0.o
+    100062: 3750bad0.o
+    100064: 379b7810.o
+    100066: 379be430.o
+    100068: 379ca168.o
+    100070: 379cbc70.o
+    100072: 379e36e0.o
+    100074: 37e88a78.o
+    100076: //RootNode
+    400000: 364f01a0.o
+    400002: 364f52b8.o
+    400004: 364f88c8.o
+    400006: 364fa3d0.o
+    400008: 36553520.o
+    400010: 36555028.o
+    400012: 36556b30.o
+    400014: 36558638.o
+    400016: 3655a140.o
+    400018: 3655bc48.o
+    400020: 3655f258.o
+    400022: 365b7328.o
+    400024: 365ba938.o
+    400026: 365c4b68.o
+    400028: 3663a0a0.o
+    400030: 366a76c0.o
+    400032: 36705818.o
+    400034: 36792fd0.o
+    400036: 36794ad8.o
+    400038: 36799bf0.o
+    400040: 36a06318.o
+    400042: 36a09928.o
+    400044: 36a10548.o
+    400046: 36a1a778.o
+    400048: 36cfb920.o
+    400050: 36cfd428.o
+    400052: 36d02540.o
+    400054: 36ffb1a0.o
+    400056: 370d74c8.o
+    400058: 370dc5e0.o
+    400060: 37504eb0.o
+    400062: 3750bad0.o
+    400064: 379b7810.o
+    400066: 379be430.o
+    400068: 379ca168.o
+    400070: 379cbc70.o
+    400072: 379e36e0.o
+    400074: 37e88a78.o
+    400076: //RootNode
+    2100000: 'Material #293'
+    2100002: 'Material #318'
+    2100004: 'Material #332'
+    2100006: 'Material #333'
+    2100008: 'Material #340'
+    2100010: 'Material #344'
+    2100012: 'Material #360'
+    2100014: 'Material #364'
+    2100016: 'Material #396'
+    2100018: 'Material #427'
+    2100020: 'Material #430'
+    2100022: 'Material #431'
+    2100024: 'Material #439'
+    2100026: 'Material #445'
+    2100028: 'Material #449'
+    2100030: 'Material #451'
+    2100032: 'Material #463'
+    2100034: 'Material #466'
+    2100036: 'Material #467'
+    2100038: 'Material #478'
+    2100040: 'Material #482'
+    2300000: 364f01a0.o
+    2300002: 364f52b8.o
+    2300004: 364f88c8.o
+    2300006: 364fa3d0.o
+    2300008: 36553520.o
+    2300010: 36555028.o
+    2300012: 36556b30.o
+    2300014: 36558638.o
+    2300016: 3655a140.o
+    2300018: 3655bc48.o
+    2300020: 3655f258.o
+    2300022: 365b7328.o
+    2300024: 365ba938.o
+    2300026: 365c4b68.o
+    2300028: 3663a0a0.o
+    2300030: 366a76c0.o
+    2300032: 36705818.o
+    2300034: 36792fd0.o
+    2300036: 36794ad8.o
+    2300038: 36799bf0.o
+    2300040: 36a06318.o
+    2300042: 36a09928.o
+    2300044: 36a10548.o
+    2300046: 36a1a778.o
+    2300048: 36cfb920.o
+    2300050: 36cfd428.o
+    2300052: 36d02540.o
+    2300054: 36ffb1a0.o
+    2300056: 370d74c8.o
+    2300058: 370dc5e0.o
+    2300060: 37504eb0.o
+    2300062: 3750bad0.o
+    2300064: 379b7810.o
+    2300066: 379be430.o
+    2300068: 379ca168.o
+    2300070: 379cbc70.o
+    2300072: 379e36e0.o
+    2300074: 37e88a78.o
+    3300000: 364f01a0.o
+    3300002: 364f52b8.o
+    3300004: 364f88c8.o
+    3300006: 364fa3d0.o
+    3300008: 36553520.o
+    3300010: 36555028.o
+    3300012: 36556b30.o
+    3300014: 36558638.o
+    3300016: 3655a140.o
+    3300018: 3655bc48.o
+    3300020: 3655f258.o
+    3300022: 365b7328.o
+    3300024: 365ba938.o
+    3300026: 365c4b68.o
+    3300028: 3663a0a0.o
+    3300030: 366a76c0.o
+    3300032: 36705818.o
+    3300034: 36792fd0.o
+    3300036: 36794ad8.o
+    3300038: 36799bf0.o
+    3300040: 36a06318.o
+    3300042: 36a09928.o
+    3300044: 36a10548.o
+    3300046: 36a1a778.o
+    3300048: 36cfb920.o
+    3300050: 36cfd428.o
+    3300052: 36d02540.o
+    3300054: 36ffb1a0.o
+    3300056: 370d74c8.o
+    3300058: 370dc5e0.o
+    3300060: 37504eb0.o
+    3300062: 3750bad0.o
+    3300064: 379b7810.o
+    3300066: 379be430.o
+    3300068: 379ca168.o
+    3300070: 379cbc70.o
+    3300072: 379e36e0.o
+    3300074: 37e88a78.o
+    4300000: 37e88a78.o
+    4300002: 379e36e0.o
+    4300004: 379cbc70.o
+    4300006: 379ca168.o
+    4300008: 379be430.o
+    4300010: 379b7810.o
+    4300012: 3750bad0.o
+    4300014: 37504eb0.o
+    4300016: 370dc5e0.o
+    4300018: 370d74c8.o
+    4300020: 36ffb1a0.o
+    4300022: 36d02540.o
+    4300024: 36cfd428.o
+    4300026: 36cfb920.o
+    4300028: 36a1a778.o
+    4300030: 36a10548.o
+    4300032: 36a09928.o
+    4300034: 36a06318.o
+    4300036: 36799bf0.o
+    4300038: 36794ad8.o
+    4300040: 36792fd0.o
+    4300042: 36705818.o
+    4300044: 366a76c0.o
+    4300046: 3663a0a0.o
+    4300048: 365c4b68.o
+    4300050: 365ba938.o
+    4300052: 365b7328.o
+    4300054: 3655f258.o
+    4300056: 3655bc48.o
+    4300058: 3655a140.o
+    4300060: 36558638.o
+    4300062: 36556b30.o
+    4300064: 36555028.o
+    4300066: 36553520.o
+    4300068: 364fa3d0.o
+    4300070: 364f88c8.o
+    4300072: 364f52b8.o
+    4300074: 364f01a0.o
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
