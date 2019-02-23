@@ -10,8 +10,6 @@ Platform: PC (Windows)
 
 Size: 1.57GB
 
-Link to game: 
-https://github.com/flube2/VR-Funhouse-Halloween-Edition
 
 To Run:
 - Download this game as a zip file from GitHub 
