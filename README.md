@@ -4,6 +4,8 @@ A Halloween themed virtual reality game developed for Steam VR and the HTC Vive.
 Description:
 VR Funhouse (Halloween Edition) is a game packed with interactable objects. Initially you start in a dungeon with appropriate background sounds. Touch the cat with the torch, then walk near the prison cell with the torch to see an old friend, then touch the coffin with the key to open it and once the key touches the zombie, you are teleported to a creepy graveyard. There you will encounter a witch with a brewing cauldron, a ghostly grave, an evil nun with demon eyes and sound effects, and even Satan himself! Plus, many more objects to interact with. 
 
+Website: https://sites.google.com/a/uic.edu/flubekcs491/virtual-reality/project-2-vr-funhouse-halloween-edition
+
 Unity Version: 2018.2.12f1
 
 Platform: PC (Windows)
